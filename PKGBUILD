@@ -2,7 +2,7 @@
 # Contributor: Asyrique Thevendran <asyrique+AUR@gmail.com>
 # Contributor: Limao Luo <luolimao+AUR@gmail.com>
 # Contributor: kaptoxic dragos240
-# Contributor: JuanJo RuizFerrer
+# Contributor: JuanJoDarko
 
 pkgname=rescuetime
 pkgver=2.14.2.1
